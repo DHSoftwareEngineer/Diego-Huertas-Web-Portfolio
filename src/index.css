@@ -1,0 +1,77 @@
+/* Reset de estilos para asegurar consistencia entre navegadores */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo del cuerpo del documento */
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #2d2d29;
+    color: #dfece6;
+    line-height: 1.6;
+}
+
+
+/* Estilo de los títulos principales */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #dfece6;
+}
+
+
+/* Estilo de los enlaces */
+
+a {
+    color: #92c7a3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Estilo de las figuras o decoraciones */
+
+.figure {
+    fill: #92c7a3;
+    /* Si estás usando SVG o iconos */
+    background-color: #92c7a3;
+    /* Si son imágenes con fondo transparente */
+}
+
+
+/* Estilo de los botones */
+
+.button {
+    background-color: #92c7a3;
+    color: #dfece6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #dfece6;
+    color: #2d2d29;
+}
+
+
+/* Estilo de las secciones o bloques */
+
+.section {
+    padding: 50px;
+}
+
+
+/* Agrega aquí estilos adicionales según la estructura y diseño de tu one page */
