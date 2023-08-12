@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Diego-Huertas-Web-Portfolio/static/css/main.e124365a.css",
+    "main.js": "/Diego-Huertas-Web-Portfolio/static/js/main.a818b730.js",
+    "static/media/Reinos.jpg": "/Diego-Huertas-Web-Portfolio/static/media/Reinos.3f2e5c132e1682c6c47e.jpg",
+    "static/media/Libreria.jpg": "/Diego-Huertas-Web-Portfolio/static/media/Libreria.d3c5245b1feb25fca7e8.jpg",
+    "static/media/LabStore.jpg": "/Diego-Huertas-Web-Portfolio/static/media/LabStore.de5886c45e7f1889105c.jpg",
+    "static/media/CV Español.pdf": "/Diego-Huertas-Web-Portfolio/static/media/CV Español.0cd2b7514e131596ff3a.pdf",
+    "static/media/CV English.pdf": "/Diego-Huertas-Web-Portfolio/static/media/CV English.cdc390afe5712c8cbc20.pdf",
+    "static/media/HomeFlix.jpg": "/Diego-Huertas-Web-Portfolio/static/media/HomeFlix.0aca28d4a9cf0ece8321.jpg",
+    "static/media/Definitivo4.png": "/Diego-Huertas-Web-Portfolio/static/media/Definitivo4.0b5c6a259a4eddcba8f7.png",
+    "static/media/Definitivo.png": "/Diego-Huertas-Web-Portfolio/static/media/Definitivo.83d6f2e42725436588ed.png",
+    "static/media/slick.svg": "/Diego-Huertas-Web-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Diego-Huertas-Web-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/Diego-Huertas-Web-Portfolio/index.html",
+    "static/media/slick.ttf": "/Diego-Huertas-Web-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Diego-Huertas-Web-Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "main.e124365a.css.map": "/Diego-Huertas-Web-Portfolio/static/css/main.e124365a.css.map",
+    "main.a818b730.js.map": "/Diego-Huertas-Web-Portfolio/static/js/main.a818b730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e124365a.css",
+    "static/js/main.a818b730.js"
+  ]
+}
